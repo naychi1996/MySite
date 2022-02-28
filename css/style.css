@@ -1,0 +1,175 @@
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  margin-top: 6.0625rem;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 5.75rem;
+  color: #022E57;
+}
+
+.engineer {
+  margin: 0;
+  text-align: center;
+  padding-top: 1.375rem;
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.3125rem;
+  font-weight: normal;
+  color: #022E57;
+}
+
+.cloud1 {
+  width: 12%;
+  height: 19%;
+  position: absolute;
+  right: 24%;
+  top: 5%;
+}
+
+.cloud2 {
+  width: 18%;
+  height: 24%;
+  position: absolute;
+  left: 19%;
+  top: 34%;
+}
+
+.mountain {
+  width: 50%;
+  height: 93%;
+  position: relative;
+  top: -13.7rem;
+}
+
+.top-container {
+  background-color: #FFF5FD;
+  text-align: center;
+  height: 36.5rem;
+  padding-top: 2.8125rem;
+}
+
+.profile {
+  width: 30%;
+  margin: 7.6rem auto 5rem auto;
+  text-align: center;
+}
+
+.Hi {
+  width: 35%;
+}
+
+.p-Hi {
+  line-height: 1.5rem;
+  font-size: 1.29rem;
+  color: #687980;
+}
+
+.skills {
+  margin: 5rem auto 5rem auto;
+  width: 50%;
+}
+
+.SkillsPic {
+  width: 19%;
+  float: left;
+  margin-right: 5rem;
+}
+
+.SkillsPic2 {
+  width: 24%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.skillRow1 {
+  line-height: 1.5rem;
+  font-size: 1.29rem;
+  color: #687980;
+  padding-bottom: 1rem;
+}
+
+.skillRow2 {
+  line-height: 1.5rem;
+  font-size: 1.29rem;
+  color: #687980;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 6rem auto;
+  line-height: 1.5rem;
+  font-size: 1.29rem;
+  color: #687980;
+  text-align: center;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #FFF5FD;
+  height: 10rem;
+}
+
+.footer-link {
+  margin: 1%;
+  position: relative;
+  top: 31%;
+  color: #005A8D;
+  font-weight: 500;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.copyright {
+  top: 42%;
+  color: #ff96ad;
+  position: relative;
+  font-size: 0.9rem;
+}
+
+h3 {
+  color: #005A8D;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.37rem;
+}
+
+h2 {
+  color: #005A8D;
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.1rem;
+  font-weight: lighter;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+hr {
+  border-style: none;
+  width: 4%;
+  border-top: 7px dotted #ff96ad;
+}
+
+a:hover {
+  color: #63AAD2;
+}
+
+.btn {
+  border-radius: 3px;
+  color: #022E57;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #63AAD2;
+  padding: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  color: #FFFFFF;
+}
